@@ -1,4 +1,8 @@
 ﻿using Discord;
+using System;
+// Credits: *INSERT DISCORD USER NAMES BELOW*
+// gaming_bandit - Repository Owner
+// 
 namespace NexusBot;
 class Bot
 {
